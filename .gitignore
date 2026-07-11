@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Node
+node_modules/
+
+# Temporary
+*.tmp
