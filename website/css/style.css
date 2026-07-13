@@ -1,0 +1,156 @@
+:root {
+    color-scheme: light;
+    --bg: #f5f7fb;
+    --card: #ffffff;
+    --text: #1f2937;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --header: #f9fafb;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+}
+
+.page {
+    padding: 24px;
+}
+
+.card {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: var(--card);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    align-items: end;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0 0 8px;
+    font-size: 2rem;
+}
+
+.meta {
+    margin: 0;
+    color: var(--muted);
+}
+
+.selector {
+    display: grid;
+    gap: 6px;
+    font-size: 0.95rem;
+    color: var(--muted);
+}
+
+.selector {
+    display: grid;
+    gap: 6px;
+    font-size: 0.95rem;
+    color: var(--muted);
+}
+
+select {
+    min-width: 220px;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: white;
+    color: var(--text);
+}
+
+.error {
+    margin: 0 0 16px;
+    padding: 12px 14px;
+    border-radius: 10px;
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.table-wrap {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+th {
+    background: var(--header);
+    position: sticky;
+    top: 0;
+}
+
+.rank {
+    width: 70px;
+    font-weight: 700;
+}
+
+.player {
+    font-weight: 600;
+}
+
+.form {
+    display: inline-flex;
+    gap: 4px;
+    align-items: center;
+}
+
+.form-box {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    display: inline-block;
+}
+
+.form-box.filled {
+    background: #d1fae5;
+    border-color: #a7f3d0;
+}
+
+.form-box.empty {
+    background: #f3f4f6;
+}
+
+.change-up {
+    color: #047857;
+    font-weight: 700;
+}
+
+.change-down {
+    color: #b91c1c;
+    font-weight: 700;
+}
+
+.change-none {
+    color: var(--muted);
+}
+
+.streak {
+    font-variant-numeric: tabular-nums;
+}
