@@ -1,0 +1,15 @@
+name: Test League Update
+
+on:
+  repository_dispatch:
+    types: [league-update]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository dispatch received
+        run: |
+          echo "Success!"
+          echo "${{ github.event.client_payload.league }}"
