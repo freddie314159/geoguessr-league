@@ -1,0 +1,45 @@
+name: Sync league data
+
+on:
+  repository_dispatch:
+    types: [league-update]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Extract freeze date
+        id: freeze
+        env:
+          LEAGUE_JSON: ${{ github.event.client_payload.league }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+
+          data = json.loads(os.environ["LEAGUE_JSON"])
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              print(f"freeze={data['freezeDate']}", file=f)
+          PY
+
+      - name: Write league JSON
+        env:
+          LEAGUE_JSON: ${{ github.event.client_payload.league }}
+        run: |
+          mkdir -p docs/data
+          printf '%s' "$LEAGUE_JSON" > docs/data/league.json
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/league.json
+          git diff --cached --quiet && exit 0
+          git commit -m "League update - Freeze ${{ steps.freeze.outputs.freeze }}"
+          git push
