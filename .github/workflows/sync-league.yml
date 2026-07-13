@@ -10,6 +10,8 @@ jobs:
 
     steps:
       - name: Repository dispatch received
+        env:
+            LEAGUE_JSON: ${{ github.event.client_payload.league }}
         run: |
-          echo "Success!"
-          echo "${{ github.event.client_payload.league }}"
+            echo "Success!"
+            echo "$LEAGUE_JSON"
