@@ -79,15 +79,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 532232,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 556181,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -108,8 +108,24 @@
       },
       {
         "rank": 3,
+        "previousRank": 5,
+        "change": "▲2",
+        "player": "Ben Ind",
+        "streak": "🔥2",
+        "roundsPlayed": 21,
+        "value": 491976,
+        "form": [
+          24379,
+          null,
+          null,
+          24963,
+          23949
+        ]
+      },
+      {
+        "rank": 4,
         "previousRank": 4,
-        "change": "▲1",
+        "change": "",
         "player": "Jonathan Huss",
         "streak": "🔥26",
         "roundsPlayed": 26,
@@ -123,9 +139,9 @@
         ]
       },
       {
-        "rank": 4,
+        "rank": 5,
         "previousRank": 3,
-        "change": "▼1",
+        "change": "▼2",
         "player": "Freddie Brown",
         "streak": "⌛25",
         "roundsPlayed": 25,
@@ -135,22 +151,6 @@
           23358,
           17425,
           24384,
-          null
-        ]
-      },
-      {
-        "rank": 5,
-        "previousRank": 5,
-        "change": "",
-        "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
-        "value": 468027,
-        "form": [
-          24379,
-          null,
-          null,
-          24963,
           null
         ]
       },
@@ -204,8 +204,24 @@
       },
       {
         "rank": 9,
+        "previousRank": 10,
+        "change": "▲1",
+        "player": "Tate Choksi",
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 86713,
+        "form": [
+          null,
+          null,
+          null,
+          21428,
+          19915
+        ]
+      },
+      {
+        "rank": 10,
         "previousRank": 9,
-        "change": "",
+        "change": "▼1",
         "player": "Ellie Parry",
         "streak": "",
         "roundsPlayed": 10,
@@ -215,22 +231,6 @@
           null,
           null,
           null,
-          null
-        ]
-      },
-      {
-        "rank": 10,
-        "previousRank": 10,
-        "change": "",
-        "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 66798,
-        "form": [
-          null,
-          null,
-          null,
-          21428,
           null
         ]
       },
@@ -273,15 +273,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
-        "value": 23401.35,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
+        "value": 23427.4285714286,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -289,15 +289,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 22266,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 21678.25,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       },
       {
@@ -305,15 +305,15 @@
         "previousRank": 3,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 21289.28,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 21391.5769230769,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -448,8 +448,40 @@
     "TodayScoreHist": [
       {
         "rank": 1,
+        "previousRank": 2,
+        "change": "▲1",
+        "player": "Erin Norman",
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 23949,
+        "form": [
+          22745,
+          23593,
+          16598,
+          24702,
+          23949
+        ]
+      },
+      {
+        "rank": 2,
+        "previousRank": 1,
+        "change": "▼1",
+        "player": "Ben Ind",
+        "streak": "🔥2",
+        "roundsPlayed": 21,
+        "value": 23949,
+        "form": [
+          24379,
+          null,
+          null,
+          24963,
+          23949
+        ]
+      },
+      {
+        "rank": 3,
         "previousRank": 6,
-        "change": "▲5",
+        "change": "▲3",
         "player": "Abby Wood",
         "streak": "🔥26",
         "roundsPlayed": 26,
@@ -463,9 +495,25 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "previousRank": 5,
+        "change": "▲1",
+        "player": "Tate Choksi",
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 19915,
+        "form": [
+          null,
+          null,
+          null,
+          21428,
+          19915
+        ]
+      },
+      {
+        "rank": 5,
         "previousRank": 4,
-        "change": "▲2",
+        "change": "▼1",
         "player": "Jonathan Huss",
         "streak": "🔥26",
         "roundsPlayed": 26,
@@ -485,15 +533,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
         "value": 24963,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -501,15 +549,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 24866,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -533,15 +581,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
         "value": 24244,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       },
       {
@@ -663,15 +711,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 21126,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 19915,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       },
       {
@@ -679,15 +727,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
         "value": 19296,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -695,15 +743,15 @@
         "previousRank": 3,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 15698,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -921,15 +969,15 @@
         "previousRank": 6,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 9168,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -985,15 +1033,15 @@
         "previousRank": 10,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
         "value": 5667,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -1001,15 +1049,15 @@
         "previousRank": 11,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 3118,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 4329,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       }
     ],
@@ -1131,15 +1179,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 2886.44762322132,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 2876.23903966858,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -1160,34 +1208,34 @@
       },
       {
         "rank": 10,
-        "previousRank": 10,
-        "change": "",
-        "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
-        "value": 1589.13301126746,
-        "form": [
-          24379,
-          null,
-          null,
-          24963,
-          null
-        ]
-      },
-      {
-        "rank": 11,
         "previousRank": 11,
-        "change": "",
+        "change": "▲1",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 1404.08071942701,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 1585.8537724204,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
+        ]
+      },
+      {
+        "rank": 11,
+        "previousRank": 10,
+        "change": "▼1",
+        "player": "Ben Ind",
+        "streak": "🔥2",
+        "roundsPlayed": 21,
+        "value": 1555.21416597227,
+        "form": [
+          24379,
+          null,
+          null,
+          24963,
+          23949
         ]
       }
     ],
@@ -1245,15 +1293,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
-        "value": 65.9345864661654,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
+        "value": 64.0558441558442,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -1261,15 +1309,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 45.9238461538462,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 63.5538461538462,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -1341,15 +1389,15 @@
         "previousRank": 10,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": -1408,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": -1268.5,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       },
       {
@@ -1423,15 +1471,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 8388,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -1487,15 +1535,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
         "value": 5646,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -1535,15 +1583,15 @@
         "previousRank": 11,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
         "value": 3118,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       }
     ],
@@ -1601,15 +1649,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 8196,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -1665,15 +1713,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
         "value": 5156,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -1697,15 +1745,15 @@
         "previousRank": 10,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
         "value": 302,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       },
       {
@@ -1859,15 +1907,15 @@
         "previousRank": 9,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 3287.75,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 3186.36,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -1875,15 +1923,15 @@
         "previousRank": 10,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 1710,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 1644.33333333333,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       },
       {
@@ -1891,15 +1939,15 @@
         "previousRank": 11,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
-        "value": 1625,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
+        "value": 1594.45,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       }
     ],
@@ -1925,15 +1973,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
-        "value": 5079.48583333333,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
+        "value": 4959.36746031746,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -1989,15 +2037,15 @@
         "previousRank": 6,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 3228.70152380952,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 3202.86684981685,
         "form": [
           22745,
           23593,
           16598,
           24702,
-          null
+          23949
         ]
       },
       {
@@ -2005,15 +2053,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 2604.66666666667,
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 2322.75,
         "form": [
           null,
           null,
           null,
           21428,
-          null
+          19915
         ]
       },
       {
@@ -2023,7 +2071,7 @@
         "player": "Abby Wood",
         "streak": "🔥26",
         "roundsPlayed": 26,
-        "value": 2078.99532967033,
+        "value": 2019.9760989011,
         "form": [
           22047,
           23668,
@@ -2034,8 +2082,24 @@
       },
       {
         "rank": 9,
+        "previousRank": 10,
+        "change": "▲1",
+        "player": "Jonathan Huss",
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 1921.23205128205,
+        "form": [
+          13629,
+          20223,
+          18993,
+          22199,
+          17897
+        ]
+      },
+      {
+        "rank": 10,
         "previousRank": 9,
-        "change": "",
+        "change": "▼1",
         "player": "Peter Heeney",
         "streak": "⌛1",
         "roundsPlayed": 6,
@@ -2046,22 +2110,6 @@
           null,
           19778,
           null
-        ]
-      },
-      {
-        "rank": 10,
-        "previousRank": 10,
-        "change": "",
-        "player": "Jonathan Huss",
-        "streak": "🔥26",
-        "roundsPlayed": 26,
-        "value": 1851.28974358974,
-        "form": [
-          13629,
-          20223,
-          18993,
-          22199,
-          17897
         ]
       },
       {
@@ -2116,8 +2164,24 @@
       },
       {
         "rank": 3,
+        "previousRank": 4,
+        "change": "▲1",
+        "player": "Erin Norman",
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 26,
+        "form": [
+          22745,
+          23593,
+          16598,
+          24702,
+          23949
+        ]
+      },
+      {
+        "rank": 4,
         "previousRank": 1,
-        "change": "▼2",
+        "change": "▼3",
         "player": "Freddie Brown",
         "streak": "⌛25",
         "roundsPlayed": 25,
@@ -2131,35 +2195,19 @@
         ]
       },
       {
-        "rank": 4,
-        "previousRank": 4,
-        "change": "",
-        "player": "Erin Norman",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 25,
-        "form": [
-          22745,
-          23593,
-          16598,
-          24702,
-          null
-        ]
-      },
-      {
         "rank": 5,
         "previousRank": 5,
         "change": "",
         "player": "Ben Ind",
-        "streak": "⌛1",
-        "roundsPlayed": 20,
+        "streak": "🔥2",
+        "roundsPlayed": 21,
         "value": 13,
         "form": [
           24379,
           null,
           null,
           24963,
-          null
+          23949
         ]
       },
       {
@@ -2228,8 +2276,24 @@
       },
       {
         "rank": 10,
+        "previousRank": 11,
+        "change": "▲1",
+        "player": "Tate Choksi",
+        "streak": "🔥2",
+        "roundsPlayed": 4,
+        "value": 2,
+        "form": [
+          null,
+          null,
+          null,
+          21428,
+          19915
+        ]
+      },
+      {
+        "rank": 11,
         "previousRank": 10,
-        "change": "",
+        "change": "▼1",
         "player": "Aoife Allsop",
         "streak": "",
         "roundsPlayed": 2,
@@ -2239,22 +2303,6 @@
           null,
           null,
           null,
-          null
-        ]
-      },
-      {
-        "rank": 11,
-        "previousRank": 11,
-        "change": "",
-        "player": "Tate Choksi",
-        "streak": "⌛1",
-        "roundsPlayed": 3,
-        "value": 1,
-        "form": [
-          null,
-          null,
-          null,
-          21428,
           null
         ]
       },
