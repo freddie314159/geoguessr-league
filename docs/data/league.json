@@ -92,8 +92,24 @@
       },
       {
         "rank": 2,
+        "previousRank": 4,
+        "change": "▲2",
+        "player": "Jonathan Huss",
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 489991,
+        "form": [
+          13629,
+          20223,
+          18993,
+          22199,
+          17897
+        ]
+      },
+      {
+        "rank": 3,
         "previousRank": 2,
-        "change": "",
+        "change": "▼1",
         "player": "Abby Wood",
         "streak": "⌛25",
         "roundsPlayed": 25,
@@ -107,9 +123,9 @@
         ]
       },
       {
-        "rank": 3,
+        "rank": 4,
         "previousRank": 3,
-        "change": "",
+        "change": "▼1",
         "player": "Freddie Brown",
         "streak": "⌛25",
         "roundsPlayed": 25,
@@ -119,22 +135,6 @@
           23358,
           17425,
           24384,
-          null
-        ]
-      },
-      {
-        "rank": 4,
-        "previousRank": 4,
-        "change": "",
-        "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 472094,
-        "form": [
-          13629,
-          20223,
-          18993,
-          22199,
           null
         ]
       },
@@ -191,14 +191,14 @@
         "previousRank": 8,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
-        "value": 92021,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
+        "value": 111799,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -337,15 +337,15 @@
         "previousRank": 6,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 18883.76,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 18845.8076923077,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
@@ -353,14 +353,14 @@
         "previousRank": 7,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
-        "value": 18404.2,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
+        "value": 18633.1666666667,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -429,7 +429,24 @@
         ]
       }
     ],
-    "TodayScoreHist": [],
+    "TodayScoreHist": [
+      {
+        "rank": 1,
+        "previousRank": 4,
+        "change": "▲3",
+        "player": "Jonathan Huss",
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 17897,
+        "form": [
+          13629,
+          20223,
+          18993,
+          22199,
+          17897
+        ]
+      }
+    ],
     "HighScoreHist": [
       {
         "rank": 1,
@@ -500,15 +517,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 24189,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
@@ -532,14 +549,14 @@
         "previousRank": 7,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
         "value": 22945,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -662,14 +679,14 @@
         "previousRank": 4,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
         "value": 13866,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -694,15 +711,15 @@
         "previousRank": 6,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 12289,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
@@ -840,15 +857,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 11900,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
@@ -888,14 +905,14 @@
         "previousRank": 7,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
         "value": 9079,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -1033,37 +1050,21 @@
         "rank": 5,
         "previousRank": 5,
         "change": "",
-        "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
-        "value": 3224.35899986338,
-        "form": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      {
-        "rank": 6,
-        "previousRank": 6,
-        "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 3166.29026186798,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 3110.59662863809,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
-        "rank": 7,
-        "previousRank": 7,
+        "rank": 6,
+        "previousRank": 6,
         "change": "",
         "player": "Freddie Brown",
         "streak": "⌛25",
@@ -1074,6 +1075,22 @@
           23358,
           17425,
           24384,
+          null
+        ]
+      },
+      {
+        "rank": 7,
+        "previousRank": 7,
+        "change": "",
+        "player": "Peter Heeney",
+        "streak": "⌛1",
+        "roundsPlayed": 6,
+        "value": 2987.61964428019,
+        "form": [
+          null,
+          null,
+          null,
+          19778,
           null
         ]
       },
@@ -1260,20 +1277,36 @@
         "previousRank": 8,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": -70.5653846153846,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": -71.1586324786325,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
         "rank": 9,
         "previousRank": 9,
+        "change": "",
+        "player": "Peter Heeney",
+        "streak": "⌛1",
+        "roundsPlayed": 6,
+        "value": -840.485714285714,
+        "form": [
+          null,
+          null,
+          null,
+          19778,
+          null
+        ]
+      },
+      {
+        "rank": 10,
+        "previousRank": 10,
         "change": "",
         "player": "Tate Choksi",
         "streak": "⌛1",
@@ -1284,22 +1317,6 @@
           null,
           null,
           21428,
-          null
-        ]
-      },
-      {
-        "rank": 10,
-        "previousRank": 10,
-        "change": "",
-        "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
-        "value": -1814.3,
-        "form": [
-          null,
-          null,
-          null,
-          null,
           null
         ]
       },
@@ -1342,15 +1359,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 9792,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
@@ -1454,14 +1471,14 @@
         "previousRank": 9,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
         "value": 5114,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -1520,15 +1537,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
         "value": 9940,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
@@ -1632,14 +1649,14 @@
         "previousRank": 9,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
-        "value": 2564,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
+        "value": 3929,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -1746,15 +1763,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 4061.20833333333,
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 4070.84,
         "form": [
           13629,
           20223,
           18993,
           22199,
-          null
+          17897
         ]
       },
       {
@@ -1794,14 +1811,14 @@
         "previousRank": 8,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
-        "value": 3406.5,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
+        "value": 3511,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
@@ -1878,7 +1895,7 @@
         "player": "Ben Ind",
         "streak": "⌛1",
         "roundsPlayed": 20,
-        "value": 5063.26440476191,
+        "value": 5079.48583333333,
         "form": [
           24379,
           null,
@@ -1894,7 +1911,7 @@
         "player": "Adam Guild",
         "streak": "⌛1",
         "roundsPlayed": 18,
-        "value": 4682.06349206349,
+        "value": 4664.03968253968,
         "form": [
           11455,
           null,
@@ -1942,7 +1959,7 @@
         "player": "Erin Norman",
         "streak": "⌛25",
         "roundsPlayed": 25,
-        "value": 3215.72438095238,
+        "value": 3228.70152380952,
         "form": [
           22745,
           23593,
@@ -1958,7 +1975,7 @@
         "player": "Tate Choksi",
         "streak": "⌛1",
         "roundsPlayed": 3,
-        "value": 2712.80952380952,
+        "value": 2604.66666666667,
         "form": [
           null,
           null,
@@ -1974,7 +1991,7 @@
         "player": "Abby Wood",
         "streak": "⌛25",
         "roundsPlayed": 25,
-        "value": 2108.07228571429,
+        "value": 2095.09514285714,
         "form": [
           22047,
           23668,
@@ -1987,15 +2004,15 @@
         "rank": 9,
         "previousRank": 9,
         "change": "",
-        "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 1859.25847619048,
+        "player": "Peter Heeney",
+        "streak": "⌛1",
+        "roundsPlayed": 6,
+        "value": 1888.10416666667,
         "form": [
-          13629,
-          20223,
-          18993,
-          22199,
+          null,
+          null,
+          null,
+          19778,
           null
         ]
       },
@@ -2003,16 +2020,16 @@
         "rank": 10,
         "previousRank": 10,
         "change": "",
-        "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
-        "value": 1811.525,
+        "player": "Jonathan Huss",
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 1786.80897435897,
         "form": [
-          null,
-          null,
-          null,
-          null,
-          null
+          13629,
+          20223,
+          18993,
+          22199,
+          17897
         ]
       },
       {
@@ -2022,7 +2039,7 @@
         "player": "Freddie Brown",
         "streak": "⌛25",
         "roundsPlayed": 25,
-        "value": 1606.53847619048,
+        "value": 1619.51561904762,
         "form": [
           17894,
           23358,
@@ -2035,8 +2052,24 @@
     "HighStreakHist": [
       {
         "rank": 1,
+        "previousRank": 3,
+        "change": "▲2",
+        "player": "Jonathan Huss",
+        "streak": "🔥26",
+        "roundsPlayed": 26,
+        "value": 26,
+        "form": [
+          13629,
+          20223,
+          18993,
+          22199,
+          17897
+        ]
+      },
+      {
+        "rank": 2,
         "previousRank": 1,
-        "change": "",
+        "change": "▼1",
         "player": "Freddie Brown",
         "streak": "⌛25",
         "roundsPlayed": 25,
@@ -2050,9 +2083,9 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "previousRank": 2,
-        "change": "",
+        "change": "▼1",
         "player": "Abby Wood",
         "streak": "⌛25",
         "roundsPlayed": 25,
@@ -2062,22 +2095,6 @@
           23668,
           18298,
           20370,
-          null
-        ]
-      },
-      {
-        "rank": 3,
-        "previousRank": 3,
-        "change": "",
-        "player": "Jonathan Huss",
-        "streak": "⌛25",
-        "roundsPlayed": 25,
-        "value": 25,
-        "form": [
-          13629,
-          20223,
-          18993,
-          22199,
           null
         ]
       },
@@ -2166,14 +2183,14 @@
         "previousRank": 9,
         "change": "",
         "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 5,
+        "streak": "⌛1",
+        "roundsPlayed": 6,
         "value": 3,
         "form": [
           null,
           null,
           null,
-          null,
+          19778,
           null
         ]
       },
