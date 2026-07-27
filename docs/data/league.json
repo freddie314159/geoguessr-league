@@ -103,10 +103,10 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 560600,
+        "value": 560476,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -119,10 +119,10 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 548120,
+        "value": 547195,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -345,10 +345,10 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 19331.0344827586,
+        "value": 19326.7586206897,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -361,10 +361,10 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 18900.6896551724,
+        "value": 18868.7931034483,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -543,7 +543,7 @@
         "value": 24189,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -559,7 +559,7 @@
         "value": 23668,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -737,7 +737,7 @@
         "value": 12289,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -769,7 +769,7 @@
         "value": 11560,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -899,7 +899,7 @@
         "value": 12108,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -931,7 +931,7 @@
         "value": 11900,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -1138,10 +1138,10 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 3209.37882573666,
+        "value": 3211.25402140844,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -1154,10 +1154,10 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 2981.74855092234,
+        "value": 2997.62638719268,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -1268,10 +1268,10 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 91.743842364532,
+        "value": 90.8886699507389,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -1316,10 +1316,10 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 29,
-        "value": -41.695566502463,
+        "value": -48.0748768472906,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -1449,7 +1449,7 @@
         "value": 9792,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -1513,7 +1513,7 @@
         "value": 8044,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -1595,7 +1595,7 @@
         "value": 10840,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -1611,7 +1611,7 @@
         "value": 9940,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -1834,10 +1834,10 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 3868.25,
+        "value": 3901.28571428571,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -1850,10 +1850,10 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 3843.53571428571,
+        "value": 3847.96428571429,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -2028,7 +2028,7 @@
         "player": "Erin Norman",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 3136.37528735632,
+        "value": 3145.4183908046,
         "form": [
           22032,
           16934,
@@ -2060,10 +2060,10 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 1949.1711001642,
+        "value": 1953.93834154351,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -2076,10 +2076,10 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 1904.19039408867,
+        "value": 1881.33694581281,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
@@ -2092,7 +2092,7 @@
         "player": "Freddie Brown",
         "streak": "",
         "roundsPlayed": 29,
-        "value": 1834.73472906404,
+        "value": 1825.69162561576,
         "form": [
           9972,
           13947,
@@ -2161,7 +2161,7 @@
         "value": 29,
         "form": [
           20833,
-          17983,
+          17859,
           null,
           null,
           null
@@ -2177,7 +2177,7 @@
         "value": 29,
         "form": [
           21148,
-          17859,
+          16934,
           null,
           null,
           null
