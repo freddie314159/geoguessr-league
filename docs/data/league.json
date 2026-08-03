@@ -139,10 +139,10 @@
         "rank": 4,
         "previousRank": 4,
         "change": "",
-        "player": "Freddie Brown",
+        "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 34,
-        "value": 619674,
+        "roundsPlayed": 27,
+        "value": 638362,
         "form": [
           null,
           null,
@@ -155,10 +155,10 @@
         "rank": 5,
         "previousRank": 5,
         "change": "",
-        "player": "Ben Ind",
+        "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 26,
-        "value": 613612,
+        "roundsPlayed": 34,
+        "value": 619674,
         "form": [
           null,
           null,
@@ -189,8 +189,8 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 199767,
+        "roundsPlayed": 15,
+        "value": 218076,
         "form": [
           null,
           null,
@@ -287,8 +287,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
-        "value": 23600.4615384615,
+        "roundsPlayed": 27,
+        "value": 23643.037037037,
         "form": [
           null,
           null,
@@ -429,10 +429,10 @@
         "rank": 10,
         "previousRank": 10,
         "change": "",
-        "player": "Adam Guild",
+        "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 23,
-        "value": 14309.0434782609,
+        "roundsPlayed": 15,
+        "value": 14538.4,
         "form": [
           null,
           null,
@@ -445,10 +445,10 @@
         "rank": 11,
         "previousRank": 11,
         "change": "",
-        "player": "Esther Wattis",
+        "player": "Adam Guild",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 14269.0714285714,
+        "roundsPlayed": 23,
+        "value": 14309.0434782609,
         "form": [
           null,
           null,
@@ -482,7 +482,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
+        "roundsPlayed": 27,
         "value": 24963,
         "form": [
           null,
@@ -626,7 +626,7 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 20092,
         "form": [
           null,
@@ -708,7 +708,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
+        "roundsPlayed": 27,
         "value": 19296,
         "form": [
           null,
@@ -804,7 +804,7 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 8160,
         "form": [
           null,
@@ -934,7 +934,7 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 11932,
         "form": [
           null,
@@ -1014,7 +1014,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
+        "roundsPlayed": 27,
         "value": 5667,
         "form": [
           null,
@@ -1144,8 +1144,8 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 3414.05823584705,
+        "roundsPlayed": 15,
+        "value": 3448.80719089949,
         "form": [
           null,
           null,
@@ -1208,8 +1208,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
-        "value": 1447.36591595718,
+        "roundsPlayed": 27,
+        "value": 1436.80544525595,
         "form": [
           null,
           null,
@@ -1274,8 +1274,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
-        "value": 65.8564102564103,
+        "roundsPlayed": 27,
+        "value": 67.9236874236874,
         "form": [
           null,
           null,
@@ -1304,6 +1304,22 @@
         "rank": 5,
         "previousRank": 5,
         "change": "",
+        "player": "Esther Wattis",
+        "streak": "",
+        "roundsPlayed": 15,
+        "value": 47.8714285714286,
+        "form": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "rank": 6,
+        "previousRank": 6,
+        "change": "",
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 34,
@@ -1317,29 +1333,13 @@
         ]
       },
       {
-        "rank": 6,
-        "previousRank": 6,
+        "rank": 7,
+        "previousRank": 7,
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 34,
         "value": -5.92925897631779,
-        "form": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      {
-        "rank": 7,
-        "previousRank": 7,
-        "change": "",
-        "player": "Esther Wattis",
-        "streak": "",
-        "roundsPlayed": 14,
-        "value": -65.3868131868132,
         "form": [
           null,
           null,
@@ -1468,7 +1468,7 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 9789,
         "form": [
           null,
@@ -1548,7 +1548,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
+        "roundsPlayed": 27,
         "value": 5646,
         "form": [
           null,
@@ -1694,7 +1694,7 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 6935,
         "form": [
           null,
@@ -1710,7 +1710,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
+        "roundsPlayed": 27,
         "value": 5156,
         "form": [
           null,
@@ -1808,8 +1808,8 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 4217.69230769231,
+        "roundsPlayed": 15,
+        "value": 4183.78571428571,
         "form": [
           null,
           null,
@@ -1936,8 +1936,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
-        "value": 1331.96,
+        "roundsPlayed": 27,
+        "value": 1309.76923076923,
         "form": [
           null,
           null,
@@ -1970,8 +1970,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
-        "value": 4950.08617216117,
+        "roundsPlayed": 27,
+        "value": 4925.44100529101,
         "form": [
           null,
           null,
@@ -2018,8 +2018,8 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 3853.6755952381,
+        "roundsPlayed": 15,
+        "value": 3740.51944444444,
         "form": [
           null,
           null,
@@ -2035,7 +2035,7 @@
         "player": "Erin Norman",
         "streak": "",
         "roundsPlayed": 34,
-        "value": 3277.86995798319,
+        "value": 3262.22044817927,
         "form": [
           null,
           null,
@@ -2067,7 +2067,7 @@
         "player": "Freddie Brown",
         "streak": "",
         "roundsPlayed": 34,
-        "value": 2057.16505602241,
+        "value": 2072.81456582633,
         "form": [
           null,
           null,
@@ -2083,7 +2083,7 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 34,
-        "value": 1899.62892156863,
+        "value": 1915.27843137255,
         "form": [
           null,
           null,
@@ -2099,7 +2099,7 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 34,
-        "value": 1897.14509803922,
+        "value": 1883.80931372549,
         "form": [
           null,
           null,
@@ -2212,7 +2212,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 26,
+        "roundsPlayed": 27,
         "value": 13,
         "form": [
           null,
@@ -2228,7 +2228,7 @@
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 8,
         "form": [
           null,
