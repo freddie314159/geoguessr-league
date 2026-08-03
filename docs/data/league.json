@@ -105,8 +105,24 @@
       },
       {
         "rank": 2,
+        "previousRank": 3,
+        "change": "▲1",
+        "player": "Jonathan Huss",
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": 735413,
+        "form": [
+          21441,
+          17612,
+          15610,
+          14981,
+          19048
+        ]
+      },
+      {
+        "rank": 3,
         "previousRank": 2,
-        "change": "",
+        "change": "▼1",
         "player": "Abby Wood",
         "streak": "⌛38",
         "roundsPlayed": 38,
@@ -116,22 +132,6 @@
           21371,
           14819,
           14859,
-          null
-        ]
-      },
-      {
-        "rank": 3,
-        "previousRank": 3,
-        "change": "",
-        "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
-        "value": 716365,
-        "form": [
-          21441,
-          17612,
-          15610,
-          14981,
           null
         ]
       },
@@ -366,15 +366,15 @@
         "previousRank": 6,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
-        "value": 18851.7105263158,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": 18856.7435897436,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -474,7 +474,24 @@
         ]
       }
     ],
-    "TodayScoreHist": [],
+    "TodayScoreHist": [
+      {
+        "rank": 1,
+        "previousRank": 4,
+        "change": "▲3",
+        "player": "Jonathan Huss",
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": 19048,
+        "form": [
+          21441,
+          17612,
+          15610,
+          14981,
+          19048
+        ]
+      }
+    ],
     "HighScoreHist": [
       {
         "rank": 1,
@@ -545,15 +562,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
         "value": 24189,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -739,15 +756,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
         "value": 12289,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -949,15 +966,15 @@
         "previousRank": 6,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
         "value": 11900,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -1159,15 +1176,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
-        "value": 2913.65098249326,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": 2876.22125426479,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -1337,15 +1354,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
-        "value": -30.5478717583981,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": -27.5018218623482,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -1451,15 +1468,15 @@
         "previousRank": 3,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
         "value": 9792,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -1613,15 +1630,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
         "value": 9940,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -1887,15 +1904,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
-        "value": 3539.05405405405,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": 3552.94736842105,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -2081,15 +2098,15 @@
         "previousRank": 9,
         "change": "",
         "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
-        "value": 1986.27418546366,
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": 1935.34407814408,
         "form": [
           21441,
           17612,
           15610,
           14981,
-          null
+          19048
         ]
       },
       {
@@ -2144,8 +2161,24 @@
     "HighStreakHist": [
       {
         "rank": 1,
+        "previousRank": 3,
+        "change": "▲2",
+        "player": "Jonathan Huss",
+        "streak": "🔥39",
+        "roundsPlayed": 39,
+        "value": 39,
+        "form": [
+          21441,
+          17612,
+          15610,
+          14981,
+          19048
+        ]
+      },
+      {
+        "rank": 2,
         "previousRank": 1,
-        "change": "",
+        "change": "▼1",
         "player": "Freddie Brown",
         "streak": "⌛38",
         "roundsPlayed": 38,
@@ -2159,9 +2192,9 @@
         ]
       },
       {
-        "rank": 2,
+        "rank": 3,
         "previousRank": 2,
-        "change": "",
+        "change": "▼1",
         "player": "Abby Wood",
         "streak": "⌛38",
         "roundsPlayed": 38,
@@ -2171,22 +2204,6 @@
           21371,
           14819,
           14859,
-          null
-        ]
-      },
-      {
-        "rank": 3,
-        "previousRank": 3,
-        "change": "",
-        "player": "Jonathan Huss",
-        "streak": "⌛38",
-        "roundsPlayed": 38,
-        "value": 38,
-        "form": [
-          21441,
-          17612,
-          15610,
-          14981,
           null
         ]
       },
