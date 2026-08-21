@@ -158,15 +158,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
-        "value": 849110,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
+        "value": 866289,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -400,15 +400,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
-        "value": 18458.9130434783,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
+        "value": 18431.6808510638,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -492,7 +492,24 @@
         ]
       }
     ],
-    "TodayScoreHist": [],
+    "TodayScoreHist": [
+      {
+        "rank": 1,
+        "previousRank": 5,
+        "change": "▲4",
+        "player": "Freddie Brown",
+        "streak": "🔥8",
+        "roundsPlayed": 47,
+        "value": 17179,
+        "form": [
+          16361,
+          21252,
+          24107,
+          15004,
+          17179
+        ]
+      }
+    ],
     "HighScoreHist": [
       {
         "rank": 1,
@@ -531,15 +548,15 @@
         "previousRank": 3,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
         "value": 24384,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -789,15 +806,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
         "value": 9972,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -935,15 +952,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
         "value": 14412,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -1129,15 +1146,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
-        "value": 3564.84208337411,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
+        "value": 3531.54742833358,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -1371,15 +1388,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
-        "value": -34.6162195497996,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
+        "value": -35.856729879741,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -1453,15 +1470,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
         "value": 11598,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -1663,15 +1680,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
         "value": 9816,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -1841,15 +1858,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
-        "value": 4153.64444444444,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
+        "value": 4110.63043478261,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -2083,15 +2100,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
-        "value": 2089.49606625259,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
+        "value": 2045.03870314083,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
@@ -2213,15 +2230,15 @@
         "previousRank": 4,
         "change": "",
         "player": "Freddie Brown",
-        "streak": "⌛7",
-        "roundsPlayed": 46,
+        "streak": "🔥8",
+        "roundsPlayed": 47,
         "value": 38,
         "form": [
           16361,
           21252,
           24107,
           15004,
-          null
+          17179
         ]
       },
       {
