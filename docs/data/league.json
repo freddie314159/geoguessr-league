@@ -110,15 +110,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
-        "value": 1177710,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": 1197974,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -190,15 +190,15 @@
         "previousRank": 6,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
-        "value": 512591,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
+        "value": 529785,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -336,15 +336,15 @@
         "previousRank": 3,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
-        "value": 21030.5357142857,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": 21017.0877192982,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -432,15 +432,15 @@
         "previousRank": 9,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
-        "value": 15076.2058823529,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
+        "value": 15136.7142857143,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -511,8 +511,40 @@
       },
       {
         "rank": 2,
+        "previousRank": 1,
+        "change": "▼1",
+        "player": "Erin Norman",
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": 20264,
+        "form": [
+          21863,
+          23913,
+          24533,
+          20125,
+          20264
+        ]
+      },
+      {
+        "rank": 3,
+        "previousRank": 4,
+        "change": "▲1",
+        "player": "Adam Guild",
+        "streak": "🔥2",
+        "roundsPlayed": 35,
+        "value": 17194,
+        "form": [
+          19505,
+          14249,
+          null,
+          17093,
+          17194
+        ]
+      },
+      {
+        "rank": 4,
         "previousRank": 5,
-        "change": "▲3",
+        "change": "▲1",
         "player": "Freddie Brown",
         "streak": "🔥8",
         "roundsPlayed": 47,
@@ -548,15 +580,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
         "value": 24866,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -644,15 +676,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
         "value": 22644,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -838,15 +870,15 @@
         "previousRank": 8,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
         "value": 9878,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -886,15 +918,15 @@
         "previousRank": 11,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
         "value": 5668,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -920,15 +952,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
         "value": 16976,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -952,15 +984,15 @@
         "previousRank": 3,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
         "value": 14988,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -1146,15 +1178,15 @@
         "previousRank": 3,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
-        "value": 3689.94940806551,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
+        "value": 3653.92787927441,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -1210,15 +1242,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
-        "value": 3234.65377350324,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": 3207.7330645423,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -1308,15 +1340,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
-        "value": 155.498090145149,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
+        "value": 152.624649859944,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -1388,15 +1420,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
-        "value": -27.8993848257006,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": -27.8474850920404,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -1470,15 +1502,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
         "value": 13305,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -1534,15 +1566,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
         "value": 8388,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -1648,15 +1680,15 @@
         "previousRank": 1,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
         "value": 12517,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -1712,15 +1744,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
         "value": 9554,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -1842,15 +1874,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
-        "value": 4406.63636363636,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
+        "value": 4280,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -1954,15 +1986,15 @@
         "previousRank": 9,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
-        "value": 2851.03636363636,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": 2802.60714285714,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -2068,15 +2100,15 @@
         "previousRank": 5,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
-        "value": 3691.90168067227,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
+        "value": 3653.3187755102,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
@@ -2100,15 +2132,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
-        "value": 3013.26207482993,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": 2973.17852965748,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -2118,7 +2150,7 @@
         "player": "Freddie Brown",
         "streak": "🔥8",
         "roundsPlayed": 47,
-        "value": 2112.33657548126,
+        "value": 2095.17700101317,
         "form": [
           16361,
           21252,
@@ -2134,7 +2166,7 @@
         "player": "Jonathan Huss",
         "streak": "🔥57",
         "roundsPlayed": 57,
-        "value": 2026.94536340852,
+        "value": 2041.09448621554,
         "form": [
           14359,
           13079,
@@ -2214,15 +2246,15 @@
         "previousRank": 2,
         "change": "",
         "player": "Erin Norman",
-        "streak": "⌛56",
-        "roundsPlayed": 56,
-        "value": 56,
+        "streak": "🔥57",
+        "roundsPlayed": 57,
+        "value": 57,
         "form": [
           21863,
           23913,
           24533,
           20125,
-          null
+          20264
         ]
       },
       {
@@ -2294,15 +2326,15 @@
         "previousRank": 7,
         "change": "",
         "player": "Adam Guild",
-        "streak": "⌛1",
-        "roundsPlayed": 34,
+        "streak": "🔥2",
+        "roundsPlayed": 35,
         "value": 6,
         "form": [
           19505,
           14249,
           null,
           17093,
-          null
+          17194
         ]
       },
       {
