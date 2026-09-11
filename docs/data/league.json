@@ -164,8 +164,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 916468,
+        "roundsPlayed": 49,
+        "value": 933748,
         "form": [
           null,
           null,
@@ -180,8 +180,8 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 886120,
+        "roundsPlayed": 49,
+        "value": 904626,
         "form": [
           null,
           null,
@@ -390,8 +390,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 19093.0833333333,
+        "roundsPlayed": 49,
+        "value": 19056.0816326531,
         "form": [
           null,
           null,
@@ -422,8 +422,8 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 18460.8333333333,
+        "roundsPlayed": 49,
+        "value": 18461.7551020408,
         "form": [
           null,
           null,
@@ -553,7 +553,7 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 24384,
         "form": [
           null,
@@ -601,7 +601,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 24101,
         "form": [
           null,
@@ -795,7 +795,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 10079,
         "form": [
           null,
@@ -811,7 +811,7 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 9972,
         "form": [
           null,
@@ -957,7 +957,7 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 14412,
         "form": [
           null,
@@ -973,7 +973,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 14022,
         "form": [
           null,
@@ -1151,8 +1151,8 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 3500.27731242667,
+        "roundsPlayed": 49,
+        "value": 3464.38196938803,
         "form": [
           null,
           null,
@@ -1183,8 +1183,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 3289.04839855779,
+        "roundsPlayed": 49,
+        "value": 3265.39204032373,
         "form": [
           null,
           null,
@@ -1345,8 +1345,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 13.7765957446808,
+        "roundsPlayed": 49,
+        "value": 8.50979591836735,
         "form": [
           null,
           null,
@@ -1393,8 +1393,8 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": -30.091728180634,
+        "roundsPlayed": 49,
+        "value": -28.175612244898,
         "form": [
           null,
           null,
@@ -1475,7 +1475,7 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 11598,
         "form": [
           null,
@@ -1555,7 +1555,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 8044,
         "form": [
           null,
@@ -1653,7 +1653,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 10840,
         "form": [
           null,
@@ -1685,7 +1685,7 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 9816,
         "form": [
           null,
@@ -1863,8 +1863,8 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 4079.59574468085,
+        "roundsPlayed": 49,
+        "value": 4022.20833333333,
         "form": [
           null,
           null,
@@ -1876,22 +1876,6 @@
       {
         "rank": 5,
         "previousRank": 5,
-        "change": "",
-        "player": "Abby Wood",
-        "streak": "",
-        "roundsPlayed": 48,
-        "value": 3807.55319148936,
-        "form": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      {
-        "rank": 6,
-        "previousRank": 6,
         "change": "",
         "player": "Ellie Parry",
         "streak": "",
@@ -1906,13 +1890,29 @@
         ]
       },
       {
-        "rank": 7,
-        "previousRank": 7,
+        "rank": 6,
+        "previousRank": 6,
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
         "roundsPlayed": 13,
         "value": 3760.33333333333,
+        "form": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "rank": 7,
+        "previousRank": 7,
+        "change": "",
+        "player": "Abby Wood",
+        "streak": "",
+        "roundsPlayed": 49,
+        "value": 3737.91666666667,
         "form": [
           null,
           null,
@@ -2105,8 +2105,8 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 2096.81775793651,
+        "roundsPlayed": 49,
+        "value": 2066.53576287658,
         "form": [
           null,
           null,
@@ -2153,8 +2153,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
-        "value": 1731.29915674603,
+        "roundsPlayed": 49,
+        "value": 1708.4767249757,
         "form": [
           null,
           null,
@@ -2219,7 +2219,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 44,
         "form": [
           null,
@@ -2235,7 +2235,7 @@
         "change": "",
         "player": "Freddie Brown",
         "streak": "",
-        "roundsPlayed": 48,
+        "roundsPlayed": 49,
         "value": 38,
         "form": [
           null,
