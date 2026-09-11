@@ -132,8 +132,8 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 1270542,
+        "roundsPlayed": 62,
+        "value": 1288552,
         "form": [
           null,
           null,
@@ -148,8 +148,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 1148358,
+        "roundsPlayed": 62,
+        "value": 1158913,
         "form": [
           null,
           null,
@@ -164,8 +164,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
-        "value": 961956,
+        "roundsPlayed": 52,
+        "value": 979175,
         "form": [
           null,
           null,
@@ -196,8 +196,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
-        "value": 857814,
+        "roundsPlayed": 37,
+        "value": 881373,
         "form": [
           null,
           null,
@@ -244,8 +244,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
-        "value": 206370,
+        "roundsPlayed": 14,
+        "value": 217345,
         "form": [
           null,
           null,
@@ -326,8 +326,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
-        "value": 23828.1666666667,
+        "roundsPlayed": 37,
+        "value": 23820.8918918919,
         "form": [
           null,
           null,
@@ -358,8 +358,8 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 20828.5573770492,
+        "roundsPlayed": 62,
+        "value": 20783.0967741935,
         "form": [
           null,
           null,
@@ -390,8 +390,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
-        "value": 18861.8823529412,
+        "roundsPlayed": 52,
+        "value": 18830.2884615385,
         "form": [
           null,
           null,
@@ -406,8 +406,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 18825.5409836066,
+        "roundsPlayed": 62,
+        "value": 18692.1451612903,
         "form": [
           null,
           null,
@@ -438,8 +438,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
-        "value": 15874.6153846154,
+        "roundsPlayed": 14,
+        "value": 15524.6428571429,
         "form": [
           null,
           null,
@@ -521,7 +521,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
+        "roundsPlayed": 37,
         "value": 24997,
         "form": [
           null,
@@ -537,7 +537,7 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 24866,
         "form": [
           null,
@@ -585,7 +585,7 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 24189,
         "form": [
           null,
@@ -601,7 +601,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
+        "roundsPlayed": 52,
         "value": 24101,
         "form": [
           null,
@@ -617,7 +617,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
+        "roundsPlayed": 14,
         "value": 22945,
         "form": [
           null,
@@ -747,7 +747,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
+        "roundsPlayed": 37,
         "value": 19296,
         "form": [
           null,
@@ -760,22 +760,6 @@
       {
         "rank": 4,
         "previousRank": 4,
-        "change": "",
-        "player": "Jonathan Huss",
-        "streak": "",
-        "roundsPlayed": 61,
-        "value": 12289,
-        "form": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      {
-        "rank": 5,
-        "previousRank": 5,
         "change": "",
         "player": "Aoife Allsop",
         "streak": "",
@@ -790,12 +774,28 @@
         ]
       },
       {
+        "rank": 5,
+        "previousRank": 5,
+        "change": "",
+        "player": "Jonathan Huss",
+        "streak": "",
+        "roundsPlayed": 62,
+        "value": 10555,
+        "form": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
         "rank": 6,
         "previousRank": 6,
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
+        "roundsPlayed": 52,
         "value": 10079,
         "form": [
           null,
@@ -811,7 +811,7 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 9878,
         "form": [
           null,
@@ -859,7 +859,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
+        "roundsPlayed": 14,
         "value": 7240,
         "form": [
           null,
@@ -925,7 +925,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
+        "roundsPlayed": 14,
         "value": 15705,
         "form": [
           null,
@@ -957,7 +957,7 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 14988,
         "form": [
           null,
@@ -973,7 +973,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
+        "roundsPlayed": 52,
         "value": 14022,
         "form": [
           null,
@@ -987,10 +987,10 @@
         "rank": 6,
         "previousRank": 6,
         "change": "",
-        "player": "Esther Wattis",
+        "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 15,
-        "value": 11932,
+        "roundsPlayed": 62,
+        "value": 13634,
         "form": [
           null,
           null,
@@ -1003,10 +1003,10 @@
         "rank": 7,
         "previousRank": 7,
         "change": "",
-        "player": "Jonathan Huss",
+        "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 11900,
+        "roundsPlayed": 15,
+        "value": 11932,
         "form": [
           null,
           null,
@@ -1053,7 +1053,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
+        "roundsPlayed": 37,
         "value": 5701,
         "form": [
           null,
@@ -1103,8 +1103,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
-        "value": 4489.94378135888,
+        "roundsPlayed": 14,
+        "value": 4506.86965495284,
         "form": [
           null,
           null,
@@ -1183,8 +1183,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
-        "value": 3350.42793665349,
+        "roundsPlayed": 52,
+        "value": 3325.71823553568,
         "form": [
           null,
           null,
@@ -1199,8 +1199,8 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 3295.77357035275,
+        "roundsPlayed": 62,
+        "value": 3288.31180684281,
         "form": [
           null,
           null,
@@ -1215,8 +1215,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 2973.44042369078,
+        "roundsPlayed": 62,
+        "value": 3127.97166499198,
         "form": [
           null,
           null,
@@ -1263,8 +1263,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
-        "value": 1330.55438529292,
+        "roundsPlayed": 37,
+        "value": 1313.17637982445,
         "form": [
           null,
           null,
@@ -1311,10 +1311,10 @@
         "rank": 3,
         "previousRank": 3,
         "change": "",
-        "player": "Ben Ind",
+        "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 36,
-        "value": 51.441184041184,
+        "roundsPlayed": 15,
+        "value": 47.8714285714286,
         "form": [
           null,
           null,
@@ -1327,10 +1327,10 @@
         "rank": 4,
         "previousRank": 4,
         "change": "",
-        "player": "Esther Wattis",
+        "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 15,
-        "value": 47.8714285714286,
+        "roundsPlayed": 37,
+        "value": 46.2313892840209,
         "form": [
           null,
           null,
@@ -1345,8 +1345,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
-        "value": -14.5211764705882,
+        "roundsPlayed": 52,
+        "value": -17.2758900367113,
         "form": [
           null,
           null,
@@ -1361,8 +1361,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": -17.0197250132205,
+        "roundsPlayed": 62,
+        "value": -28.9136259474705,
         "form": [
           null,
           null,
@@ -1377,8 +1377,8 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": -40.7087255420413,
+        "roundsPlayed": 62,
+        "value": -43.0997960262899,
         "form": [
           null,
           null,
@@ -1409,8 +1409,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
-        "value": -671.71978021978,
+        "roundsPlayed": 14,
+        "value": -677.364835164835,
         "form": [
           null,
           null,
@@ -1491,7 +1491,7 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 9792,
         "form": [
           null,
@@ -1523,7 +1523,7 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 8388,
         "form": [
           null,
@@ -1555,7 +1555,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
+        "roundsPlayed": 52,
         "value": 8044,
         "form": [
           null,
@@ -1571,8 +1571,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
-        "value": 6856,
+        "roundsPlayed": 14,
+        "value": 7552,
         "form": [
           null,
           null,
@@ -1587,7 +1587,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
+        "roundsPlayed": 37,
         "value": 5646,
         "form": [
           null,
@@ -1637,7 +1637,7 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 12517,
         "form": [
           null,
@@ -1653,7 +1653,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
+        "roundsPlayed": 52,
         "value": 10840,
         "form": [
           null,
@@ -1669,7 +1669,7 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
+        "roundsPlayed": 62,
         "value": 9940,
         "form": [
           null,
@@ -1733,7 +1733,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
+        "roundsPlayed": 14,
         "value": 7041,
         "form": [
           null,
@@ -1765,7 +1765,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
+        "roundsPlayed": 37,
         "value": 5156,
         "form": [
           null,
@@ -1861,6 +1861,22 @@
         "rank": 4,
         "previousRank": 4,
         "change": "",
+        "player": "Peter Heeney",
+        "streak": "",
+        "roundsPlayed": 14,
+        "value": 4052,
+        "form": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "rank": 5,
+        "previousRank": 5,
+        "change": "",
         "player": "Freddie Brown",
         "streak": "",
         "roundsPlayed": 52,
@@ -1874,8 +1890,8 @@
         ]
       },
       {
-        "rank": 5,
-        "previousRank": 5,
+        "rank": 6,
+        "previousRank": 6,
         "change": "",
         "player": "Ellie Parry",
         "streak": "",
@@ -1890,29 +1906,13 @@
         ]
       },
       {
-        "rank": 6,
-        "previousRank": 6,
-        "change": "",
-        "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 13,
-        "value": 3760.33333333333,
-        "form": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      {
         "rank": 7,
         "previousRank": 7,
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
-        "value": 3675.98,
+        "roundsPlayed": 52,
+        "value": 3688.56862745098,
         "form": [
           null,
           null,
@@ -1927,8 +1927,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 3362.58333333333,
+        "roundsPlayed": 62,
+        "value": 3354.86885245902,
         "form": [
           null,
           null,
@@ -1943,8 +1943,8 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 2847.96666666667,
+        "roundsPlayed": 62,
+        "value": 2888.26229508197,
         "form": [
           null,
           null,
@@ -1975,8 +1975,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
-        "value": 1168.37142857143,
+        "roundsPlayed": 37,
+        "value": 1158.63888888889,
         "form": [
           null,
           null,
@@ -2009,8 +2009,8 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
-        "value": 4847.68485449735,
+        "roundsPlayed": 37,
+        "value": 4949.79247104247,
         "form": [
           null,
           null,
@@ -2073,8 +2073,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
-        "value": 3131.17957875458,
+        "roundsPlayed": 14,
+        "value": 3190.26198979592,
         "form": [
           null,
           null,
@@ -2089,8 +2089,8 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 2899.55179547229,
+        "roundsPlayed": 62,
+        "value": 2902.40848694316,
         "form": [
           null,
           null,
@@ -2106,7 +2106,7 @@
         "player": "Freddie Brown",
         "streak": "",
         "roundsPlayed": 52,
-        "value": 2050.82312271062,
+        "value": 2159.50260989011,
         "form": [
           null,
           null,
@@ -2121,8 +2121,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 1973.22462919594,
+        "roundsPlayed": 62,
+        "value": 2012.01670506912,
         "form": [
           null,
           null,
@@ -2137,8 +2137,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
-        "value": 1735.7335200747,
+        "roundsPlayed": 52,
+        "value": 1746.30915750916,
         "form": [
           null,
           null,
@@ -2187,8 +2187,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 61,
+        "roundsPlayed": 62,
+        "value": 62,
         "form": [
           null,
           null,
@@ -2203,8 +2203,8 @@
         "change": "",
         "player": "Erin Norman",
         "streak": "",
-        "roundsPlayed": 61,
-        "value": 61,
+        "roundsPlayed": 62,
+        "value": 62,
         "form": [
           null,
           null,
@@ -2219,7 +2219,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 51,
+        "roundsPlayed": 52,
         "value": 44,
         "form": [
           null,
@@ -2251,7 +2251,7 @@
         "change": "",
         "player": "Ben Ind",
         "streak": "",
-        "roundsPlayed": 36,
+        "roundsPlayed": 37,
         "value": 13,
         "form": [
           null,
@@ -2315,7 +2315,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 13,
+        "roundsPlayed": 14,
         "value": 4,
         "form": [
           null,
