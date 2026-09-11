@@ -226,10 +226,10 @@
         "rank": 7,
         "previousRank": 7,
         "change": "",
-        "player": "Esther Wattis",
+        "player": "Peter Heeney",
         "streak": "",
         "roundsPlayed": 15,
-        "value": 218076,
+        "value": 237004,
         "form": [
           null,
           null,
@@ -242,10 +242,10 @@
         "rank": 8,
         "previousRank": 8,
         "change": "",
-        "player": "Peter Heeney",
+        "player": "Esther Wattis",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 217345,
+        "roundsPlayed": 15,
+        "value": 218076,
         "form": [
           null,
           null,
@@ -438,8 +438,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 15524.6428571429,
+        "roundsPlayed": 15,
+        "value": 15800.2666666667,
         "form": [
           null,
           null,
@@ -617,7 +617,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 22945,
         "form": [
           null,
@@ -859,7 +859,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 7240,
         "form": [
           null,
@@ -925,7 +925,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 15705,
         "form": [
           null,
@@ -1103,8 +1103,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 4506.86965495284,
+        "roundsPlayed": 15,
+        "value": 4474.51761968694,
         "form": [
           null,
           null,
@@ -1409,8 +1409,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": -677.364835164835,
+        "roundsPlayed": 15,
+        "value": -447,
         "form": [
           null,
           null,
@@ -1571,7 +1571,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 7552,
         "form": [
           null,
@@ -1715,10 +1715,10 @@
         "rank": 6,
         "previousRank": 6,
         "change": "",
-        "player": "Ellie Parry",
+        "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 10,
-        "value": 7752,
+        "roundsPlayed": 15,
+        "value": 8684,
         "form": [
           null,
           null,
@@ -1731,10 +1731,10 @@
         "rank": 7,
         "previousRank": 7,
         "change": "",
-        "player": "Peter Heeney",
+        "player": "Ellie Parry",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 7041,
+        "roundsPlayed": 10,
+        "value": 7752,
         "form": [
           null,
           null,
@@ -1829,6 +1829,22 @@
         "rank": 2,
         "previousRank": 2,
         "change": "",
+        "player": "Peter Heeney",
+        "streak": "",
+        "roundsPlayed": 15,
+        "value": 4382.85714285714,
+        "form": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "rank": 3,
+        "previousRank": 3,
+        "change": "",
         "player": "Adam Guild",
         "streak": "",
         "roundsPlayed": 36,
@@ -1842,29 +1858,13 @@
         ]
       },
       {
-        "rank": 3,
-        "previousRank": 3,
+        "rank": 4,
+        "previousRank": 4,
         "change": "",
         "player": "Esther Wattis",
         "streak": "",
         "roundsPlayed": 15,
         "value": 4183.78571428571,
-        "form": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      {
-        "rank": 4,
-        "previousRank": 4,
-        "change": "",
-        "player": "Peter Heeney",
-        "streak": "",
-        "roundsPlayed": 14,
-        "value": 4052,
         "form": [
           null,
           null,
@@ -2073,8 +2073,8 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
-        "value": 3190.26198979592,
+        "roundsPlayed": 15,
+        "value": 3002.09785714286,
         "form": [
           null,
           null,
@@ -2090,7 +2090,7 @@
         "player": "Erin Norman",
         "streak": "",
         "roundsPlayed": 64,
-        "value": 2891.27462797619,
+        "value": 2892.71134672619,
         "form": [
           null,
           null,
@@ -2106,7 +2106,7 @@
         "player": "Freddie Brown",
         "streak": "",
         "roundsPlayed": 53,
-        "value": 2235.79029649596,
+        "value": 2234.05539083558,
         "form": [
           null,
           null,
@@ -2122,7 +2122,7 @@
         "player": "Jonathan Huss",
         "streak": "",
         "roundsPlayed": 64,
-        "value": 2012.45758928571,
+        "value": 2013.89430803571,
         "form": [
           null,
           null,
@@ -2154,7 +2154,7 @@
         "player": "Abby Wood",
         "streak": "",
         "roundsPlayed": 54,
-        "value": 1704.37641093474,
+        "value": 1706.07918871252,
         "form": [
           null,
           null,
@@ -2315,7 +2315,7 @@
         "change": "",
         "player": "Peter Heeney",
         "streak": "",
-        "roundsPlayed": 14,
+        "roundsPlayed": 15,
         "value": 4,
         "form": [
           null,
