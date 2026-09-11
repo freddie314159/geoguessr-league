@@ -148,8 +148,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": 1158913,
+        "roundsPlayed": 63,
+        "value": 1183090,
         "form": [
           null,
           null,
@@ -164,8 +164,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
-        "value": 979175,
+        "roundsPlayed": 53,
+        "value": 1003185,
         "form": [
           null,
           null,
@@ -390,8 +390,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
-        "value": 18830.2884615385,
+        "roundsPlayed": 53,
+        "value": 18928.0188679245,
         "form": [
           null,
           null,
@@ -406,8 +406,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": 18692.1451612903,
+        "roundsPlayed": 63,
+        "value": 18779.2063492063,
         "form": [
           null,
           null,
@@ -585,7 +585,7 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
+        "roundsPlayed": 63,
         "value": 24189,
         "form": [
           null,
@@ -601,7 +601,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
+        "roundsPlayed": 53,
         "value": 24101,
         "form": [
           null,
@@ -779,7 +779,7 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
+        "roundsPlayed": 63,
         "value": 10555,
         "form": [
           null,
@@ -795,7 +795,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
+        "roundsPlayed": 53,
         "value": 10079,
         "form": [
           null,
@@ -973,7 +973,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
+        "roundsPlayed": 53,
         "value": 14022,
         "form": [
           null,
@@ -989,7 +989,7 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
+        "roundsPlayed": 63,
         "value": 13634,
         "form": [
           null,
@@ -1183,8 +1183,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
-        "value": 3325.71823553568,
+        "roundsPlayed": 53,
+        "value": 3368.73552499745,
         "form": [
           null,
           null,
@@ -1215,8 +1215,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": 3127.97166499198,
+        "roundsPlayed": 63,
+        "value": 3177.86724007081,
         "form": [
           null,
           null,
@@ -1345,8 +1345,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
-        "value": -17.2758900367113,
+        "roundsPlayed": 53,
+        "value": -5.45718432510885,
         "form": [
           null,
           null,
@@ -1361,8 +1361,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": -28.9136259474705,
+        "roundsPlayed": 63,
+        "value": -19.3963133640553,
         "form": [
           null,
           null,
@@ -1491,7 +1491,7 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
+        "roundsPlayed": 63,
         "value": 9792,
         "form": [
           null,
@@ -1555,7 +1555,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
+        "roundsPlayed": 53,
         "value": 8044,
         "form": [
           null,
@@ -1635,6 +1635,22 @@
         "rank": 1,
         "previousRank": 1,
         "change": "",
+        "player": "Jonathan Huss",
+        "streak": "",
+        "roundsPlayed": 63,
+        "value": 13622,
+        "form": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "rank": 2,
+        "previousRank": 2,
+        "change": "",
         "player": "Erin Norman",
         "streak": "",
         "roundsPlayed": 62,
@@ -1648,29 +1664,13 @@
         ]
       },
       {
-        "rank": 2,
-        "previousRank": 2,
-        "change": "",
-        "player": "Abby Wood",
-        "streak": "",
-        "roundsPlayed": 52,
-        "value": 10840,
-        "form": [
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      {
         "rank": 3,
         "previousRank": 3,
         "change": "",
-        "player": "Jonathan Huss",
+        "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": 9940,
+        "roundsPlayed": 53,
+        "value": 10840,
         "form": [
           null,
           null,
@@ -1911,8 +1911,8 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
-        "value": 3688.56862745098,
+        "roundsPlayed": 53,
+        "value": 3748.23076923077,
         "form": [
           null,
           null,
@@ -1927,8 +1927,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": 3354.86885245902,
+        "roundsPlayed": 63,
+        "value": 3520.46774193548,
         "form": [
           null,
           null,
@@ -2121,8 +2121,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": 2012.01670506912,
+        "roundsPlayed": 63,
+        "value": 1981.40532879819,
         "form": [
           null,
           null,
@@ -2135,10 +2135,10 @@
         "rank": 10,
         "previousRank": 10,
         "change": "",
-        "player": "Abby Wood",
+        "player": "Tate Choksi",
         "streak": "",
-        "roundsPlayed": 52,
-        "value": 1746.30915750916,
+        "roundsPlayed": 5,
+        "value": 1732.06666666667,
         "form": [
           null,
           null,
@@ -2151,10 +2151,10 @@
         "rank": 11,
         "previousRank": 11,
         "change": "",
-        "player": "Tate Choksi",
+        "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 5,
-        "value": 1732.06666666667,
+        "roundsPlayed": 53,
+        "value": 1714.93539982031,
         "form": [
           null,
           null,
@@ -2187,8 +2187,8 @@
         "change": "",
         "player": "Jonathan Huss",
         "streak": "",
-        "roundsPlayed": 62,
-        "value": 62,
+        "roundsPlayed": 63,
+        "value": 63,
         "form": [
           null,
           null,
@@ -2219,7 +2219,7 @@
         "change": "",
         "player": "Abby Wood",
         "streak": "",
-        "roundsPlayed": 52,
+        "roundsPlayed": 53,
         "value": 44,
         "form": [
           null,
